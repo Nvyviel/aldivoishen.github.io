@@ -42,8 +42,8 @@
         <div class="container">
             <img src="img/LogoName.png" alt="name" data-aos="fade-down" data-aos-duration="1000">
             <div>
-                <button class="btn-sidebar btn" type="button" data-bs-toggle="offcanvas"
-                    data-bs-target="#offcanvasRight" aria-controls="offcanvas">
+                <button class="btn-sidebar btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop"
+                    aria-controls="offcanvas">
                     <h5 class="" data-aos="fade-down" data-aos-duration="1200">
                         Project
                     </h5>
@@ -53,24 +53,23 @@
     </nav>
     <!-- ./TOP NAVBAR -->
 
-    <!-- END SIDEBAR -->
-    <div class="offcanvas offcanvas-end text-light" tabindex="-1" id="offcanvasRight"
-        aria-labelledby="offcanvasRightLabel">
+    <!-- TOP SIDEBAR -->
+    <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel">
         <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="offcanvasRightLabel">My Project</h5>
+            <h5 class="offcanvas-title text-light" id="offcanvasTopLabel">My Project</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"
                 style="background-color: #52d3d8;"></button>
         </div>
         <div class="offcanvas-body">
             <img src="img/Screenshot Project.png" alt="my project" width="100%">
             <h4 style="color: #9290c3;">ALMETA Global</h4>
-            <h1>2%</h1>
+            <h1 class="text-light">2%</h1>
             <p style="color: #9290c3;">I have coding this website for an 2% of this project. I use some Framework, it's
                 an styling Bootstrap 5
                 (Styling Framework) and Laravel 11 (Server-side Framework).</p>
         </div>
     </div>
-    <!-- ./END SIDEBAR -->
+    <!-- ./TOP SIDEBAR -->
 
     <!-- NAME -->
     <div class="d-flex mb-5 movingshape">
@@ -170,7 +169,7 @@
                     <div class="d-flex justify-content-center texthoverblue">
                         <img src="img/Component.png"
                             style="width: 150px; position: absolute; border: none; margin-left: 90px;">
-                        <h3 class="the-title mt-4 pt-1 me-1">In 2022
+                        <h3 class="the-title mt-4 pt-1 pb-2 me-1">In 2022
                         </h3>
                     </div>
                     <p class="container mt-3" id="typeitsmalldesc">
@@ -208,7 +207,7 @@
                 <div class="d-flex justify-content-center" data-aos="fade-up" data-aos-duration="500"
                     data-aos-offset="200" data-aos-easing="ease-in-sine">
                     <h2 class=" m-2 text-center thetitle mt-4">Skills</h2>
-                    <img src="img/IN_2022_polosan-removebg-preview.png" width="150px">
+                    <img src="img/Component.png" width="150px">
                 </div>
                 <ul class="list-group list-group-flush" id="skills">
                     <li class="list-group-item bg-transparent d-flex mb-4" data-aos="fade-up" data-aos-duration="500"
@@ -291,7 +290,7 @@
                 </script>
                 <!-- ./AUTOTYPE -->
             </div>
-            <div class="mb-3" data-aos="fade-left" data-aos-duration="800">
+            <div class="mb-3" data-aos="zoom-out" data-aos-duration="800">
                 <label for="name" class="form-label">Name</label>
                 <input type="text" name="name" class="form-control" id="name" placeholder="Name..."><sup
                     class="mt-1">*Insert the
@@ -302,8 +301,8 @@
                 <input type="email" name="email" class="form-control" id="email" placeholder="Email..."
                     aria-describedby="emailHelp"><sup>*Must be valid email address!</sup>
             </div>
-            <div class="mb-4" data-aos="fade-left" data-aos-duration="800">
-                <label for="inputmsg" class="form-label">Input message (<i>Anything</i>)</label>
+            <div class="mb-4" data-aos="fade-up" data-aos-duration=" 800">
+                <label for="inputmsg" class="form-label">Input message (Anything)</label>
                 <textarea class="form-control" name="message" id="inputmsg" rows="5"
                     placeholder="Message..."></textarea>
             </div>
