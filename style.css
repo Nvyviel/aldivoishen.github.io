@@ -227,7 +227,7 @@ footer {
     background-repeat: no-repeat;
   }
   .topnavbar button h5 {
-    font-size: 11px;
+    font-size: 13px;
   }
   .topnavbar img {
     width: 50%;
@@ -285,8 +285,8 @@ footer {
 
   /* SMALL DESC */
   .small-desc {
-    font-size: 12px;
-    height: 360px;
+    font-size: 14px;
+    height: 430px;
   }
   .texthoverblue {
     margin-bottom: 20px;
@@ -299,12 +299,12 @@ footer {
   /* SKILLS */
   .differentline {
     width: fit-content;
-    font-size: 12px;
+    font-size: 14px;
   }
   /* ./SKILLS */
 
   /* SIDEBAR */
-  .offcanvas-end {
+  .offcanvas-top {
     background-color: #070f2b;
     border: 2px solid rgb(230, 0, 0);
   }
@@ -316,7 +316,7 @@ footer {
 
   /* FOOTER */
   footer {
-    font-size: 10px;
+    font-size: 12px;
   }
   /* ./FOOTER */
 }
