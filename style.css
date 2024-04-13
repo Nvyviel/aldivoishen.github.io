@@ -243,6 +243,7 @@ footer {
   /* ./NAME */
 
   /* NAV */
+
   /* MY PHOTO */
   .bgimage {
     width: 65px;
@@ -308,9 +309,16 @@ footer {
     background-color: #070f2b;
     border: 2px solid rgb(230, 0, 0);
   }
+  .offcanvas-top p {
+    font-size: 10px;
+  }
   .offcanvas-start {
     background-color: #070f2b;
     border: 2px solid rgb(230, 0, 0);
+  }
+  .offcanvas img {
+    width: 30%;
+    height: auto;
   }
   /* ./SIDEBAR */
 
