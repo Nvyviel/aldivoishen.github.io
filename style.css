@@ -20,7 +20,7 @@ body {
   color: #52d3d8;
 }
 .topnavbar img {
-  width: 30%;
+  width: 7%;
 }
 /* ./TOP NAVBAR */
 
@@ -214,7 +214,7 @@ footer {
 }
 /* ./FORM */
 
-/* RESPONSIVE UNSOLVED */
+/* RESPONSIVE */
 @media screen and (max-width: 400px) {
   body {
     border-top: 2px solid #52d3d8;
@@ -226,19 +226,27 @@ footer {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='390' height='600' preserveAspectRatio='none' viewBox='0 0 390 600'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1272%26quot%3b)' fill='none'%3e%3crect width='390' height='600' x='0' y='0' fill='rgba(7%2c 15%2c 43%2c 1)'%3e%3c/rect%3e%3cpath d='M42.20809720118369-52.86788400930847L-43.360285888259256 26.925924118003863 36.433522239053076 112.4943072074468 122.00190532849602 32.70049908013448z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M64.33765564804884 127.36290628007262L121.06038121687027 25.032400544763306 18.729875481560946-31.690325024058126-37.99285008726048 70.64018071125119z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M-41.398438364095696-5.565582107885728L-9.14886773350672 106.90203631689755 71.06918006068759-37.81515273847471z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M441.23498094167627 56.53990349047915L375.8094112355989-40.457492498460724 278.81201524665903 24.96807720761666 344.23758495273637 121.96547319655653z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M288.7337140298249 70.99858796072702L347.60106128720116 122.17119222198657 394.92629405040236 8.28386920529244z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M267.0233555572374 76.38881100187366L376.25226545741003 118.31786109867372 418.1813155542101 9.088951198501078 308.9524056540374-32.840098898298976z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M58.11204964047582 650.9151241924293L121.83481673723398 552.7906677428147 23.710360287619366 489.0679006460565-40.012406809138795 587.1923570956711z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M44.66512327859783 625.7526553759634L99.22055675308523 503.53275242063137-17.334222923648994 513.7299743221074z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M91.58610463437158 599.2060413990108L35.137157691513465 477.84906224641986-33.63371682670589 572.5040505882887z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M310.70322262575957 478.3793625463292L272.61174855427225 589.0050358914493 383.2374218993923 627.0965099629366 421.32889597087967 516.4708366178165z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M363.7933316481909 469.9707153420428L270.35297697265764 540.3830730508325 434.20568935698054 563.4110700175761z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M413.15980913759734 541.9958391930221L282.26799188294433 514.043519507985 316.47548133550447 625.9311759556601z' fill='rgba(146%2c 144%2c 195%2c 0.57)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1272'%3e%3crect width='390' height='580' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
     background-repeat: no-repeat;
   }
+  .topnavbar {
+    border-radius: 0 0 0 0;
+  }
   .topnavbar button h5 {
     font-size: 13px;
   }
   .topnavbar img {
-    width: 50%;
+    width: 11%;
   }
   /* ./TOP NAVBAR */
+
+  /* END SIDEBAR */
+  .offcanvas-end {
+  }
+  /* ./END SIDEBAR */
 
   /* NAME */
   .responsivename h3,
   i,
   h5 {
-    font-size: 22px;
+    font-size: 25px;
   }
   /* ./NAME */
 
@@ -264,8 +272,8 @@ footer {
     }
   }
   .bgimage img {
-    width: 130px;
-    height: 130px;
+    width: 145px;
+    height: 145px;
   }
   .sidebar {
     font-size: 20px;
@@ -305,11 +313,11 @@ footer {
   /* ./SKILLS */
 
   /* SIDEBAR */
-  .offcanvas-top {
+  .offcanvas-end {
     background-color: #070f2b;
     border: 2px solid rgb(230, 0, 0);
   }
-  .offcanvas-top p {
+  .offcanvas-end p {
     font-size: 10px;
   }
   .offcanvas-start {
@@ -317,7 +325,7 @@ footer {
     border: 2px solid rgb(230, 0, 0);
   }
   .offcanvas img {
-    width: 30%;
+    width: 100%;
     height: auto;
   }
   /* ./SIDEBAR */
